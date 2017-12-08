@@ -1,6 +1,6 @@
 # MobileApplication
 calculator
-i designed a siple calculator ...
+i designed a simple calculator ...
 functionality.
 addition
 subtraction
